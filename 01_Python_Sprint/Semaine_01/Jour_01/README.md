@@ -1,20 +1,20 @@
 # Jour 01 - Variables et Types de données
 
- ## Énoncés des Exercices
+## Énoncés des Exercices
 
- ### Exercice 1 : Application Directe
+### Exercice 1 : Application Directe
 > Crée 4 variables : ton prénom (`str`), ton âge (`int`), ta taille en mètres (`float`), et un statut étudiant (`bool`). Affiche chaque variable avec son type en utilisant une *f-string* :
 > `Prénom : Patrick | type : <class 'str'>`
 
- ### Exercice 2 : Problème combiné
+### Exercice 2 : Problème combiné
 > Écris un programme qui définit le nom d'un produit, son prix unitaire (`float`) et la quantité (`int`), puis calcule le total. Affiche le résultat sous cette forme :
 > `Produit : Cahier | Total : 3 x 250.0 = 750.0 FCFA`
 
 ---
 
- ## 🛠️ Analyse du Refactoring
+## 🛠️ Analyse du Refactoring
 
- ### Exercice 1
+### Exercice 1
 - **Code initial (Pydroid 3) :**
   ```python
   prenom = "Lefirst"
@@ -32,7 +32,7 @@
 - Simplification de l'affichage avec une seule f-string pure au lieu de mélanger virgules et f-strings.
 - Ajout des majuscules et accents pour une meilleure présentation.
 
- #### Exercice 2
+### Exercice 2
 - **Code initial (Pydroid 3) :**
 ```python
 produit = input("Quel est le nom de ce produit ?")
@@ -46,7 +46,7 @@ print(f" Produit : {produit}\n Total : {quantite} x {prix_unitaire} = {total} FC
 - Prompts d'entrée plus concis avec un espace (: ) pour la clarté.
 - Respect de la norme PEP 8 (espaces autour des opérateurs de calcul).
 
- ## Tech English du jour
+## Tech English du jour
 - **Variable** : Variable. "Assign a value to a variable."
 - **Assignment** : Affectation. "The = operator performs the assignment."
 - **String** : Chaîne de caractères. "A string is text enclosed in quotes."
