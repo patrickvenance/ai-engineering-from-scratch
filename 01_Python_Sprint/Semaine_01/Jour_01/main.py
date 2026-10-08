@@ -18,10 +18,10 @@ print(f"Étudiant : {etudiant} | type : {type(etudiant)}")
 
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-EXERCICE 2 : Problème Combiné
+#EXERCICE 2 : Problème Combiné
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 produit = input("Nom du produit : ")
-prix_unitaire = float(input("Prix unitaire : ")
+prix_unitaire = float(input("Prix unitaire : "))
 quantite = int(input("Quantité : "))
 
 total = prix_unitaire * quantite
