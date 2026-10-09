@@ -81,7 +81,7 @@
 - Simplification de la logique : Remplacement des calculs de restes intermédiaires (reste_1, reste_2, etc.) par une expression booléenne directe est_bissextile.
 - Clarté du code : Le **if est_bissextile:** se lit désormais comme une phrase en langage naturel.
 
-## Tech English du jour
+## 🔤 Tech English du jour
 - **Condition** : condition. "The if statement checks a condition."
 - **Branch** : branche. "The program takes the else branch."
 - **Indentation** : indentation. "Python uses indentation to group code."
@@ -89,7 +89,7 @@
 - **Nested** : imbriqué. "A nested if is an if inside another if."
 
  
-## Notes & Apprentissages
+## 💡 Notes & Apprentissages
 - Ordre d'évaluation : Python teste les branches dans l'ordre et s'arrête dès qu'il rencontre la première condition vraie (**True**).
 - Logique séquentielle : Un bloc **elif** n'a pas besoin de retester ce que les branches précédentes ont déjà éliminé (ex: si on arrive au **elif note <= 11**, on sait déjà que la note est **≥** 10).
 - Syntaxe stricte : Les deux-points **:** en fin de ligne conditionnelle et l'**indentation de 4 espaces** sont obligatoires en Python.
