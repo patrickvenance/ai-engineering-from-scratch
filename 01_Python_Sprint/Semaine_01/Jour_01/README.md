@@ -34,19 +34,19 @@
 
 ### Exercice 2
 - **Code initial (Pydroid 3) :**
-```python
-produit = input("Quel est le nom de ce produit ?")
-prix_unitaire = float(input("Quel est le prix unitaire ?"))
-quantite = int(input("Quelle est la quantité ?"))
-total = quantite*prix_unitaire
-print(f" Produit : {produit}\n Total : {quantite} x {prix_unitaire} = {total} FCFA")
-```
+  ```python
+  produit = input("Quel est le nom de ce produit ?")
+  prix_unitaire = float(input("Quel est le prix unitaire ?"))
+  quantite = int(input("Quelle est la quantité ?"))
+  total = quantite*prix_unitaire
+  print(f" Produit : {produit}\n Total : {quantite} x {prix_unitaire} = {total} FCFA")
+  ```
 
 > **Ce qui a été amélioré (version retenue dans main.py)** 
 - Prompts d'entrée plus concis avec un espace (: ) pour la clarté.
 - Respect de la norme PEP 8 (espaces autour des opérateurs de calcul).
 
-## Tech English du jour
+## 🔤 Tech English du jour
 - **Variable** : Variable. "Assign a value to a variable."
 - **Assignment** : Affectation. "The = operator performs the assignment."
 - **String** : Chaîne de caractères. "A string is text enclosed in quotes."
@@ -54,7 +54,7 @@ print(f" Produit : {produit}\n Total : {quantite} x {prix_unitaire} = {total} FC
 - **Type casting** : Conversion de type. "Type casting converts a string into an integer."
 
  
- ## Notes & Apprentissages
+ ## 💡 Notes & Apprentissages
 - Utilisation des f-strings (**f"..."**) pour insérer des variables et des retours à la ligne (**\n**).
 - Utilisation de la fonction intégrée **type()** pour vérifier le type dynamique d'une donnée.
 - **input()** renvoie toujours du texte (**str**), il faut donc convertir explicitement avec **int()** ou **float()**.
