@@ -41,21 +41,21 @@
 
 ### Exercice 2
 - **Code initial (Pydroid 3) :**
-```python
-secondes = int(input("Nombre de secondes : "))
+  ```python
+  secondes = int(input("Nombre de secondes : "))
 
-print(
-    f"{secondes} secondes = {secondes // 3600} h {(secondes % 3600) // 60} min {((secondes % 3600) % 60)} s\n"
-    f"Plus d'une heure ? {secondes > 3600}"
-)
-```
+  print(
+      f"{secondes} secondes = {secondes // 3600} h {(secondes % 3600) // 60} min {((secondes % 3600) % 60)} s\n"
+      f"Plus d'une heure ? {secondes > 3600}"
+  )
+  ```
 
 - **Ce qui a été amélioré (version retenue dans main.py)**
 - Création de variables intermédiaires aux noms explicites (**heures**, **minutes**, **reste_secondes**, **plus_dune_heure**).
 - Séparation nette de la logique de calcul et de la logique d'affichage : le **print()** ne fait désormais plus que restituer le résultat.
 - j'ai écrit la version complète avec les variables créées.
 
-## Tech English du jour
+## 🔤 Tech English du jour
 - **Operator** : opérateur. "The + operator adds two numbers."
 - **Operand** : opérande. "In 3 + 4, the operands are 3 and 4."
 - **Remainder** : reste. "The remainder of 17 divided by 5 is 2."
@@ -63,7 +63,7 @@ print(
 - **Boolean expression** : expression booléenne. "A boolean expression evaluates to True or False."
 
  
- ## Notes & Apprentissages
+ ## 💡 Notes & Apprentissages
 - **//** donne le quotient entier.
 - **%** donne le reste (modulo).
 - Une comparaison (**>**, **==**, **=<**) renvoie **True** ou **False**.
