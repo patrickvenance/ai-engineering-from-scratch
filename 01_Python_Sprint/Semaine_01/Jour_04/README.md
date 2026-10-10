@@ -55,33 +55,33 @@
   ```
 
 - **Ce qui a été amélioré (version retenue dans main.py)**
-- Utilisation de range(2, n + 1, 2) pour cibler directement les pairs.
-- Utilisation des opérateurs d'accumulation += (somme += i et nombre_pairs += 1).
-- Suppression de la condition if, ce qui simplifie la lecture et divise les tours de boucle par deux.
+- Utilisation de `range(2, n + 1, 2)` pour cibler directement les pairs.
+- Utilisation des opérateurs d'accumulation `+=` (`somme += i` et `nombre_pairs += 1`).
+- Suppression de la condition `if`, ce qui simplifie la lecture et divise les tours de boucle par deux.
 
 ## 🔤 Tech English du jour
-- **Loop** : boucle. "A for loop repeats a block of code."
+- **Loop** : boucle. "A `for` loop repeats a block of code."
 - **Iteration** : itération (un tour de boucle). "The loop runs five iterations."
-- **Range** : plage de valeurs. "range(1, 4) generates numbers from 1 to 3."
+- **Range** : plage de valeurs. "`range(1, 4)` generates numbers from `1 to 3`."
 - **Counter** : compteur. "The counter increases at each iteration."
 - **Accumulator** : accumulateur. "The accumulator stores the running total."
 
  
 ## 💡 Notes & Apprentissages
-- range(début, fin, pas) : la fin est exclue, d'où le n + 1 pour inclure n
-- Un accumulateur (somme += i) et un compteur (nombre += 1) se préparent toujours avant la boucle
-- Un if dans une boucle teste le nombre en cours (i), pas un compteur
-- Ne jamais replacer l'initialisation des variables (= 0) à l'intérieur de la boucle sous peine de perdre le total à chaque tour.
+- **range(début, fin, pas)** : la fin est exclue, d'où le `n + 1` pour inclure `n`
+- Un **accumulateur** (`somme += i`) et un compteur (`nombre += 1`) se préparent toujours avant la boucle
+- Un `if` dans une boucle teste le nombre en cours (`i`), pas un compteur
+- Ne jamais replacer l'initialisation des variables (`= 0`) à l'intérieur de la boucle sous peine de perdre le total à chaque tour.
 
 ### 📋 Checklist du Jour 04 :
 Dans la version finale :
-- [x] Aucune valeur en dur : plus de if n == 10, tout dépend de n
+- [x] Aucune valeur en dur : plus de `if n == 10`, tout dépend de `n`
 - [x] Format identique à l'énoncé
-- [x] Noms clairs : somme, nombre_pairs, i
+- [x] Noms clairs : `somme`, `nombre_pairs`, `i`
 - [x] Calculs avant le print : tout est calculé dans la boucle
 - [x] Variables initialisées avant la boucle
 
 Pièges identifiés en chemin :
 - [x] Attention aux valeurs en dur (piège de débutant)
-- [x] Rigueur sur le formatage des espaces et des chaînes (\n, f-strings)
+- [x] Rigueur sur le formatage des espaces et des chaînes (`\n`, `f-strings`)
 - [x] Ne pas réinitialiser les compteurs à chaque itération
