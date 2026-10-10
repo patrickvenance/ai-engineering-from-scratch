@@ -55,7 +55,7 @@
   
 - **Ce qui a été amélioré (version retenue dans main.py)**
 - Nommage explicite : Remplacement des 5 variables de mentions par une seule variable dynamique mention.
-- Factorisation de l'affichage : Un seul print() à la fin. Si le format d'affichage change, une seule ligne est à modifier au lieu de cinq.
+- Factorisation de l'affichage : Un seul `print()` à la fin. Si le format d'affichage change, une seule ligne est à modifier au lieu de cinq.
 - Principe fondamental : Décider de la valeur d'abord dans les structures conditionnelles, afficher le résultat ensuite.
 
 ### Exercice 2
@@ -78,18 +78,25 @@
   ```
 
 - **Ce qui a été amélioré (version retenue dans main.py)**
-- Simplification de la logique : Remplacement des calculs de restes intermédiaires (reste_1, reste_2, etc.) par une expression booléenne directe est_bissextile.
-- Clarté du code : Le **if est_bissextile:** se lit désormais comme une phrase en langage naturel.
+- Simplification de la logique : Remplacement des calculs de restes intermédiaires (`reste_1`, `reste_2`, etc.) par une expression **booléenne** directe `est_bissextile`.
+- Clarté du code : Le `if est_bissextile:` se lit désormais comme une phrase en langage naturel.
 
 ## 🔤 Tech English du jour
-- **Condition** : condition. "The if statement checks a condition."
-- **Branch** : branche. "The program takes the else branch."
+- **Condition** : condition. "The `if` statement checks a condition."
+- **Branch** : branche. "The program takes the `else` branch."
 - **Indentation** : indentation. "Python uses indentation to group code."
-- **Statement** : instruction. "An if statement controls the flow."
-- **Nested** : imbriqué. "A nested if is an if inside another if."
+- **Statement** : instruction. "An `if` statement controls the flow."
+- **Nested** : imbriqué. "A nested `if` is an `if` inside another `if`."
 
  
 ## 💡 Notes & Apprentissages
-- Ordre d'évaluation : Python teste les branches dans l'ordre et s'arrête dès qu'il rencontre la première condition vraie (**True**).
-- Logique séquentielle : Un bloc **elif** n'a pas besoin de retester ce que les branches précédentes ont déjà éliminé (ex: si on arrive au **elif note <= 11**, on sait déjà que la note est **≥** 10).
-- Syntaxe stricte : Les deux-points **:** en fin de ligne conditionnelle et l'**indentation de 4 espaces** sont obligatoires en Python.
+- **Ordre d'évaluation** : Python teste les branches dans l'ordre et s'arrête dès qu'il rencontre la première condition vraie (`True`).
+- **Logique séquentielle** : Un bloc `elif` n'a pas besoin de retester ce que les branches précédentes ont déjà éliminé (ex: si on arrive au `elif note <= 11`, on sait déjà que la note est `>= 10`).
+- **Syntaxe stricte** : Les deux-points `:` en fin de ligne conditionnelle et l'**indentation de 4 espaces** sont obligatoires en Python.
+
+### 📋 Checklist du Jour 03 :
+- [x] Structurer des conditions imbriquées ou multiples avec des opérateurs logiques (`and`, `or`)
+- [x] Traquer et corriger les erreurs de logique (*bugs*) dans le code
+- [x] Appliquer les conventions de nommage et le formatage propre (`PEP 8`)
+- [x] Documenter les difficultés rencontrées et les solutions trouvées dans le README.md
+- [x] Pousser proprement le code mis à jour sur mon dépôt GitHub
