@@ -29,7 +29,7 @@
   ```
   
 > **Ce qui a été amélioré (version retenue dans main.py)**
-- Simplification de l'affichage avec une seule f-string pure au lieu de mélanger virgules et f-strings.
+- Simplification de l'affichage avec une seule `f-string (f"...")` pure au lieu de mélanger virgules et f-strings.
 - Ajout des majuscules et accents pour une meilleure présentation.
 
 ### Exercice 2
@@ -44,7 +44,7 @@
 
 > **Ce qui a été amélioré (version retenue dans main.py)** 
 - Prompts d'entrée plus concis avec un espace (: ) pour la clarté.
-- Respect de la norme PEP 8 (espaces autour des opérateurs de calcul).
+- Respect de la norme `PEP 8` (espaces autour des opérateurs de calcul).
 
 ## 🔤 Tech English du jour
 - **Variable** : Variable. "Assign a value to a variable."
@@ -55,7 +55,14 @@
 
  
  ## 💡 Notes & Apprentissages
-- Utilisation des f-strings (**f"..."**) pour insérer des variables et des retours à la ligne (**\n**).
-- Utilisation de la fonction intégrée **type()** pour vérifier le type dynamique d'une donnée.
-- **input()** renvoie toujours du texte (**str**), il faut donc convertir explicitement avec **int()** ou **float()**.
-- Respect de la convention de nommage **snake_case** pour les variables en Python.
+- Utilisation des `f-strings (f"...")` pour insérer des variables et des retours à la ligne (`\n`).
+- Utilisation de la fonction intégrée `type()` pour vérifier le type dynamique d'une donnée.
+- `input()` renvoie toujours du texte (`str`), il faut donc convertir explicitement avec `int()` ou `float()`.
+- Respect de la convention de nommage `snake_case` pour les variables en Python.
+
+### 📋 Checklist du Jour 01 :
+- [x] Installer et configurer l'environnement de travail (`Pydroid 3`)
+- [x] Comprendre la notion de variable (stockage de données)
+- [x] Maîtriser l'utilisation de `input()` (saisie utilisateur) et `print()` (affichage)
+- [x] Écrire et tester mon tout premier script Python sans erreur de syntaxe
+- [x] Initialiser le dépôt GitHub et structurer le premier README
