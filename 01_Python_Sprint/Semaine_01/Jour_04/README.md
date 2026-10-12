@@ -49,9 +49,9 @@
             nombre_pairs = nombre_pairs + (i % 2 == 0)
 
      print(
-             f"Somme des nombres pairs :     {somme}\n"
-             f"Nombre de nombres pairs : {nombre_pairs}"
-             )
+         f"Somme des nombres pairs :     {somme}\n"
+         f"Nombre de nombres pairs : {nombre_pairs}"
+     )
   ```
 
 - **Ce qui a été amélioré (version retenue dans main.py)**
