@@ -26,4 +26,4 @@ for i in range(2, n + 1, 2):
 print(
     f"Somme des nombres pairs : {somme}\n"
     f"Nombre de nombres pairs : {nombre_pairs}"
-     )
+)
