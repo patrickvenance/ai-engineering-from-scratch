@@ -47,7 +47,7 @@
   print(
       f"{secondes} secondes = {secondes // 3600} h {(secondes % 3600) // 60} min {((secondes % 3600) % 60)} s\n"
       f"Plus d'une heure ? {secondes > 3600}"
-       )
+  )
   ```
 
 - **Ce qui a été amélioré (version retenue dans main.py)**
