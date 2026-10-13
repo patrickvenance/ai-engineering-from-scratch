@@ -47,11 +47,11 @@
 - Respect de la norme `PEP 8` (espaces autour des opérateurs de calcul).
 
 ## 🔤 Tech English du jour
-- **Variable** : Variable. "Assign a value to a variable."
-- **Assignment** : Affectation. "The = operator performs the assignment."
-- **String** : Chaîne de caractères. "A string is text enclosed in quotes."
-- **Integer** : Nombre entier. "An integer has no decimal part."
-- **Type casting** : Conversion de type. "Type casting converts a string into an integer."
+- **Variable** : Variable. *"Assign a value to a variable."*
+- **Assignment** : Affectation. *"The = operator performs the assignment."*
+- **String** : Chaîne de caractères. *"A string is text enclosed in quotes."*
+- **Integer** : Nombre entier. *"An integer has no decimal part."*
+- **Type casting** : Conversion de type. *"Type casting converts a string into an integer."*
 
  
  ## 💡 Notes & Apprentissages
