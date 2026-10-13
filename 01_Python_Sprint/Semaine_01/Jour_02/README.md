@@ -56,11 +56,11 @@
 - j'ai écrit la version complète avec les variables créées.
 
 ## 🔤 Tech English du jour
-- **Operator** : opérateur. "The `+` operator adds two numbers."
-- **Operand** : opérande. "In `3 + 4`, the operands are `3` and `4`."
-- **Remainder** : reste. "The remainder of `17 divided by 5` is `2`."
-- **Floor division** : division entière. "Floor division drops the decimal part."
-- **Boolean expression** : expression booléenne. "A boolean expression evaluates to `True` or `False`."
+- **Operator** : opérateur. *"The `+` operator adds two numbers."*
+- **Operand** : opérande. *"In `3 + 4`, the operands are `3` and `4`."*
+- **Remainder** : reste. *"The remainder of `17 divided by 5` is `2`."*
+- **Floor division** : division entière. *"Floor division drops the decimal part."*
+- **Boolean expression** : expression booléenne. *"A boolean expression evaluates to `True` or `False`."*
 
  
  ## 💡 Notes & Apprentissages
