@@ -39,7 +39,7 @@
 ### Exercice 2
 - **Code initial (Pydroid 3) :**
   ```python
-     n = int(input("Entrez le nombre entier : "))
+    n = int(input("Entrez le nombre entier : "))
     somme = 0
     nombre_pairs = 0
 
@@ -60,11 +60,11 @@
 - Suppression de la condition `if`, ce qui simplifie la lecture et divise les tours de boucle par deux.
 
 ## 🔤 Tech English du jour
-- **Loop** : boucle. "A `for` loop repeats a block of code."
-- **Iteration** : itération (un tour de boucle). "The loop runs five iterations."
-- **Range** : plage de valeurs. "`range(1, 4)` generates numbers from `1 to 3`."
-- **Counter** : compteur. "The counter increases at each iteration."
-- **Accumulator** : accumulateur. "The accumulator stores the running total."
+- **Loop** : boucle. *"A `for` loop repeats a block of code."*
+- **Iteration** : itération (un tour de boucle). *"The loop runs five iterations."*
+- **Range** : plage de valeurs. *"`range(1, 4)` generates numbers from `1 to 3`."*
+- **Counter** : compteur. *"The counter increases at each iteration."*
+- **Accumulator** : accumulateur. *"The accumulator stores the running total."*
 
  
 ## 💡 Notes & Apprentissages
