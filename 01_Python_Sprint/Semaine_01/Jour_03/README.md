@@ -82,11 +82,11 @@
 - Clarté du code : Le `if est_bissextile:` se lit désormais comme une phrase en langage naturel.
 
 ## 🔤 Tech English du jour
-- **Condition** : condition. "The `if` statement checks a condition."
-- **Branch** : branche. "The program takes the `else` branch."
-- **Indentation** : indentation. "Python uses indentation to group code."
-- **Statement** : instruction. "An `if` statement controls the flow."
-- **Nested** : imbriqué. "A nested `if` is an `if` inside another `if`."
+- **Condition** : condition. *"The `if` statement checks a condition."*
+- **Branch** : branche. *"The program takes the `else` branch."*
+- **Indentation** : indentation. *"Python uses indentation to group code."*
+- **Statement** : instruction. *"An `if` statement controls the flow."*
+- **Nested** : imbriqué. *"A nested `if` is an `if` inside another `if`."*
 
  
 ## 💡 Notes & Apprentissages
