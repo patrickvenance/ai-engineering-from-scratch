@@ -5,4 +5,4 @@ Pause stratégique pour consolider et valider définitivement les fondations fon
 
 ## Examens validés
 * **Variables & Types :** `examen_variables_types.py`
-* **Opérateurs & Expressions :** `examen_operateurs.py`
+* **Opérateurs & Expressions :** `examen_operateurs_expressions.py`
