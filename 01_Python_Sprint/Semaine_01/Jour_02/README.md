@@ -1,4 +1,4 @@
-# Jour 02 - Opérations & Expressions
+# Jour 02 - Opérations Arithmétiques, Logiques & Expressions
 
 ## Énoncés des Exercices
 
