@@ -1,4 +1,4 @@
-# Jour 01 - Variables et Types de données
+# Jour 01 - Variables & Types de données
 
 ## Énoncés des Exercices
 
