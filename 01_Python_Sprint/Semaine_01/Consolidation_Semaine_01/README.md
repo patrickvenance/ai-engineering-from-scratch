@@ -1,0 +1,8 @@
+# 🛡️ Espace de Consolidation - Semaine 01
+
+## Objectif
+Pause stratégique pour consolider et valider définitivement les fondations fondamentales de la Semaine 01 avant d'attaquer la suite du sprint.
+
+## Examens validés
+* **Variables & Types :** `examen_variables_types.py`
+* **Opérateurs & Expressions :** `examen_operateurs.py`
