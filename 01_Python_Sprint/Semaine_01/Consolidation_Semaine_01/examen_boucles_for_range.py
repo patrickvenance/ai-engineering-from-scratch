@@ -1,6 +1,6 @@
 # ============================================================================================================================================
-# EXAMEN DE CONSOLIDATION : Boucles for et range
-# Enoncé / Objectif : Combiner les notions : range(), if, le modulo, le compteur et l’accumulation.
+# EXAMEN DE CONSOLIDATION : Boucles for & range
+# Enoncé / Objectif : Combiner les notions : range(), if, le modulo, le compteur & l’accumulation.
 # ============================================================================================================================================
 
 compteur = 0
