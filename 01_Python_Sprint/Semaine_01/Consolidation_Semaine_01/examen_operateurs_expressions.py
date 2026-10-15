@@ -1,6 +1,6 @@
 # ===========================================================================================================================
 # EXAMEN DE CONSOLIDATION : Opérateurs & Expressions
-# Enoncé / Objectif : combiner les opérateurs arithmétiques, les affectations, les comparaisons et les opérateurs logiques
+# Enoncé / Objectif : combiner les opérateurs arithmétiques, les affectations, les comparaisons et les opérateurs logiques.
 # ===========================================================================================================================
 
 prix_unitaire = 12
