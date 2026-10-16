@@ -7,4 +7,5 @@ Pause stratégique pour consolider et valider définitivement les fondations fon
 * **Variables & Types :** `examen_variables_types.py`
 * **Opérateurs & Expressions :** `examen_operateurs_expressions.py`
 * **Conditions if, elif & else :** `examen_conditions_if_elif_else.py`
-* **Boucles for & range :** `examen_boucles_for_range`
+* **Boucles for & range :** `examen_boucles_for_range.py`
+* **Boucle while :** `examen_boucle_while.py`
