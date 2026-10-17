@@ -1,4 +1,4 @@
-# Jour 03 - Conditions (if, elif, else)
+# Jour 03 - Conditions (`if`, `elif`, `else`)
 
 ## Énoncés des Exercices
 
