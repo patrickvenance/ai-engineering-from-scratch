@@ -1,4 +1,4 @@
-# Jour 04 - Boucle (for et range)
+# Jour 04 - Boucle (`for` et `range`)
 
 ## Énoncés des Exercices
 
