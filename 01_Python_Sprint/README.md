@@ -10,7 +10,7 @@ Un concept par jour, deux exercices, des notes à la fin de chaque jour. À la f
 | 1 | Variables et types | Débloqué 🔓 | ✅ |
 | 2 | Opérateurs et expressions | Débloqué 🔓 | ✅ |
 | 3 | Conditions (`if`, `elif`, `else`) | Débloqué🔓 | ✅ |
-| 4 | Boucle `for` et `range` | Débloqué 🔓 | (révision en cours) |
+| 4 | Boucle `for` et `range` | Débloqué 🔓 | ✅ |
 | 5 | Boucle `while` | Débloqué 🔓 | (révision en cours) |
 | 6 | `break` et `continue` | à venir | à venir |
 
