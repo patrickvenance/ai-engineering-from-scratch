@@ -7,12 +7,13 @@ Un concept par jour, deux exercices, des notes à la fin de chaque jour. À la f
 
 | Jour | Concept | Statut | Révision |
 |---|---|---|---|
-| 1 | Variables et types | Débloqué 🔓 | ✅ |
-| 2 | Opérateurs et expressions | Débloqué 🔓 | ✅ |
+| 1 | Variables & types | Débloqué 🔓 | ✅ |
+| 2 | Opérateurs & expressions | Débloqué 🔓 | ✅ |
 | 3 | Conditions (`if`, `elif`, `else`) | Débloqué🔓 | ✅ |
-| 4 | Boucle `for` et `range` | Débloqué 🔓 | ✅ |
+| 4 | Boucle `for` & `range` | Débloqué 🔓 | ✅ |
 | 5 | Boucle `while` | Débloqué 🔓 | (révision en cours) |
-| 6 | `break` et `continue` | à venir | à venir |
+| 6 | `break` & `continue` | à venir | à venir |
+| 7 | Examen de la Semaine 01 | à venir| Pas de révision |
 
 ## Ma méthode
 
